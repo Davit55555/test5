@@ -1,0 +1,27 @@
+{
+  "name": "test5_project",
+  "version": "1.0.0",
+  "description": "test5 our project",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davit55555/test5.git"
+  },
+  "keywords": [
+    "test5",
+    "main_project"
+  ],
+  "author": "Davit Tamazyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davit55555/test5/issues"
+  },
+  "homepage": "https://github.com/Davit55555/test5#readme"
+}
